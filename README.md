@@ -3,6 +3,6 @@
 Installation Link<br>
  
   ```html
-apt install bzip2 && wget https://raw.githubusercontent.com/kayroy/autoscript/main/install.sh && chmod +x install.sh && ./install.sh
+apt install bzip2 && wget https://raw.githubusercontent.com/kayroy/xbcnjdmz/main/install.sh && chmod +x install.sh && ./install.sh
   ```
 <b>
